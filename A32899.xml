@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christians sure anchor and comfort in times of trouble and danger being a sermon preached on the 16. day of June / by a divine of the Church of England.</title>
+            <author>Divine of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32899</idno>
+            <idno type="STC">Wing C3961</idno>
+            <idno type="STC">ESTC R23846</idno>
+            <idno type="EEBO-CITATION">07915923</idno>
+            <idno type="OCLC">ocm 07915923</idno>
+            <idno type="VID">40400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1202:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christians sure anchor and comfort in times of trouble and danger being a sermon preached on the 16. day of June / by a divine of the Church of England.</title>
+                  <author>Divine of the Church of England.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Keble,</publisher>
+                  <pubPlace>Lonnon [i.e. London] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XII, 12 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40400:1"/>
+            <pb facs="tcp:40400:1"/>
+            <p>A CHRISTIANS Sure Anchor and Comfort In Times of Troubles and Dangers.</p>
+            <p>BEING A SERMON Preached on the 16. day of <hi>June.</hi>
+            </p>
+            <p>By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <bibl>6 <hi>H.</hi> 19.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>Similiter quomodo Anchoram habemus Navim in Tempeſtate Maris, ſic ſpes Hominem in Ten<g ref="char:EOLhyphen"/>tationibus mundi ſundat. <bibl>
+                     <hi>Sedul. Coment in L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>It is good that a man Should both hope, and quiet<g ref="char:EOLhyphen"/>ly wait for the ſalvation of God, <bibl>
+                     <hi>Lam. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.26.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONNON,</hi> Printed for <hi>S. Keble</hi> at the <hi>Turks-head</hi> in <hi>Fleet-ſtreet,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:40400:2" rendition="simple:additions"/>
+            <pb facs="tcp:40400:2"/>
+            <head>A <hi>CHRISTIANS</hi> Sure Anchor <hi>and</hi> Comfort In Times of Troubles <hi>and</hi> Dangers.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rom. xii. 12.</hi>
+                  </bibl>
+                  <p>Rejoycing in Hope.</p>
+               </q>
+            </epigraph>
+            <p>THe Condition of Man in this World is ſuch, that he often meets with many things which cauſe trouble and vexation of Spirit; and the beſt of Men are not ſecure from ſuch evills, but as liable as others to be afflicted with them. The Wiſdom of God ſees it fit very frequently to lay heavy burdens of afflictions upon his own Servants, to let
+<pb n="2" facs="tcp:40400:3"/>them be intangled in the nets of wicked Men, to be caught in the Briars of Tri<g ref="char:EOLhyphen"/>bulation, and to make them paſs through the Fiery Trial of Perſecution: And were it not that they had a proſpect of Deliverance from ſuch Miſeries, and of a Bleſſed Reward, after they have pati<g ref="char:EOLhyphen"/>ently endured for a while, they would ſink under the weight of ſuch Calamities: but when they conſider that the things wherein they find preſent trouble, and ſorrow, are deſign'd for their Advantage another way, that they will have a ſpeedy and a happy end; and that God has pre<g ref="char:EOLhyphen"/>par'd unſpeakeable Joy, Reſt, and Peace, to ſucceed theſe Miſeries, and to reward the Courage and Patience of thoſe, who bear them with Submiſſion and Reſignati<g ref="char:EOLhyphen"/>on to his will: Theſe thoughts beget joy and comfort in their Souls, and make them eſteem themſelves happy in thoſe circumſtances, wherein to the Eye of the World they appear moſt miſerable. The hope of what is to come makes their pre<g ref="char:EOLhyphen"/>ſent afflictions ſeem light and turns their heavineſs into Joy. The Expectation of
+<pb n="3" facs="tcp:40400:3"/>Gods gracious Deliverance out of their troubles, and the bleſſedneſs of a future Life which they are aſſured of, does over<g ref="char:EOLhyphen"/>ballance all the thoughts of their preſent hardſhips and ill treatments in the World, and makes them look on 'em as matter of Joy; and not of grief.</p>
+            <p>Such a hope as this, which cauſeth Re<g ref="char:EOLhyphen"/>joycing, is that which St. <hi>Paul</hi> ſpeaks of in this place; a hope of heavenly Felicity wherewith God hath promiſed to reward the good Services, the Sufferings, and Con<g ref="char:EOLhyphen"/>ſtancy of pious Chriſtians. With this hope he bids theſe Chriſtians to comfort themſelves, and rejoyce in it. And this Advice was very proper for their conditi<g ref="char:EOLhyphen"/>on: for they had then many Enemies and Perſecutors who hated them and their Re<g ref="char:EOLhyphen"/>ligion, and brought great calamaties up<g ref="char:EOLhyphen"/>on 'em, not ſuffering them to reſt and en<g ref="char:EOLhyphen"/>joy a peaceable Life, becauſe they had embrac'd and did conſtantly profeſs the Doctrine of Chriſtianity which by the Ig<g ref="char:EOLhyphen"/>norant and unconverted World was then every where ſpoken againſt.</p>
+            <p>In this afflicted perſecuted State they
+<pb n="4" facs="tcp:40400:4"/>had need of encouragement, to make them to perſevere in the Love and profeſſi<g ref="char:EOLhyphen"/>on of that Truth, for which they then ſuf<g ref="char:EOLhyphen"/>fered. And how does the Apoſtle en<g ref="char:EOLhyphen"/>courage them? He bids 'em Hope, He adviſes 'em to look forward upon the Bleſſedneſs of a Future Life, the Joys and Glories of Eternity, and to expect them as their portion, and Reward of their Suf<g ref="char:EOLhyphen"/>ferings: And ſo in reſpect of this Felicity to come, which God had aſſur'd them of, to rejoyce in the midſt of all their world<g ref="char:EOLhyphen"/>ly troubles, knowing that theſe would not laſt long, and that the End of 'em would be peace.</p>
+            <p>One would have thought it a very un<g ref="char:EOLhyphen"/>reaſonable Exhortation, to bid thoſe Chriſtians Rejoyce, who had then ſo much Cauſe to be ſorrowful; when they ſuffer'd ſo many reproaches, underwent ſo many hardſhips, and were in all re<g ref="char:EOLhyphen"/>ſpects ſo ſpitefully treated by their Ene<g ref="char:EOLhyphen"/>mies. But in the worſt of times and Conditions, Chriſtianity has wherewithal to comfort its Profeſſors, and make their Hearts joyful: and this is one of thoſe
+<pb n="5" facs="tcp:40400:4"/>Spiritual Comforts; <hi>viz.</hi> the Hope of E<g ref="char:EOLhyphen"/>verlaſting Happineſs, this outweighs the heavieſt burden of worldly Calamities, and gives us a chearful Spirit in the midſt of our greateſt Sufferings. For, when we have this hope, we conſider, not ſo much what we are at preſent, as what we ſhall be; we are the leſs concern'd at the Evils we ſuffer in this World, be<g ref="char:EOLhyphen"/>cauſe we ſee beyond 'em, and do expect a Bliſſful State where we ſhall ſuffer no more; where we ſhall have no more Sorrow, and where all Tears ſhall be wip'd off from our Eyes.</p>
+            <p>Since therefore ſuch a hope as this is ſo uſeful and beneficial to us in our Chriſti<g ref="char:EOLhyphen"/>an courſe, I ſhall make it my buſineſs at this time to ſhew you,</p>
+            <p>
+               <hi>Firſt,</hi> The Nature of it.</p>
+            <p>
+               <hi>Secondly,</hi> What you muſt do to get it.</p>
+            <p>And <hi>Thirdly,</hi> Of what uſe and advan<g ref="char:EOLhyphen"/>tage it will be to you at all times, but eſpecially in Adverſity, and when you are under ſuch Trials as theſe Chriſtians heretofore were.</p>
+            <pb n="6" facs="tcp:40400:5"/>
+            <p n="1">I. Hope (as it is a Chriſtian Grace) is nothing elſe but a comfortable Expe<g ref="char:EOLhyphen"/>ctation of the fulfilling of Gods Promiſes, belonging to this life, or that to come. Here in my Text the Apoſtle ſpeaks of hope as it reſpects the Promiſes of God belonging to a future Life.</p>
+            <p>By this Deſcription of Hope which I have given you, the Nature of it does appear, and alſo the objects and the ground of it.</p>
+            <p>As for the Nature of it, 'tis an expecta<g ref="char:EOLhyphen"/>tion and earneſt looking for of ſomething to come. <hi>For hope that is ſeen is not hope,</hi> (ſaith the Apoſtle) <hi>for what a Man ſeeth, why doth he yet hope for? But if we hope for that we ſee not, then do we with patience wait for it.</hi> Rom. 8.24, 25. So that it muſt be ſomthing Future, about which our hope is employed.</p>
+            <p>And then for the Object of it, that is always ſome good thing, which we be<g ref="char:EOLhyphen"/>leive we ſhall be the better for, and will, in ſome meaſure conduce to our happineſs for we never hope for things that will hurt us, and make us miſerable; but
+<pb n="7" facs="tcp:40400:5"/>on the contrary deprecate all ſuch evills, and wiſh they may never come upon us. Again.</p>
+            <p>If we conſider the ground of this Hope, it is built upon the promiſe of God, which he has made to pious Men concerning things to come, concerning the Felicity of a Future State; Now theſe Promiſes of God being a moſt ſure and certain ground, our hope that is built upon them muſt be ſo too. And herein this Grace of Hope differs from all other expectations, which have no other Foundation but the words or Promiſes of Men, who ſomtimes want Power, and ſomtimes Will to perform what they promiſe: and ſo the hopes of them who depend upon them muſt needs be uncertain. But God is pow<g ref="char:EOLhyphen"/>erful to do whatever he promiſes, and he is true and juſt and will never fail nor deceive thoſe, who put their confidence in his word. <hi>Thy word is true from Everlaſting,</hi> ſays the Pſalmiſt. <hi>He is faithful that hath promiſed,</hi> ſays the A<g ref="char:EOLhyphen"/>poſtle So that the Hope of Chriſtians
+<pb n="8" facs="tcp:40400:6"/>for Heavenly bliſs is as well grounded as it can be, in that it is bottom'd upon the moſt ſure and infallible promiſes of God.</p>
+            <p>Now an Eternal heavenly Life being the beſt thing we hope for, we are moſt unwilling to be diſappointed of it, becauſe ſuch a diſappointment of the greateſt Felicity would make us moſt miſerable. We therefore deſire to have it ſecur'd to us, and made as certain as poſſible: and ſo it is; we are as certain of it as the Promiſes of God can make us; and if there be nothing of Fallibility or deceit in them (as certainly there is not,) then are we as ſure as we can be of Future happineſs, and our hopes grounded upon thoſe promiſes are moſt rational, certain, and full of Comfort.</p>
+            <p>Take away this hope from Men, and and what are they then but wretched Creatures, tho they have all the felicity this World affords? for 'tis not all the wealth and glory of the Earth, that can bear up Mens Spirits, and make them comfortable, under a deſpair of Heaven.
+<pb n="9" facs="tcp:40400:6"/>The thoughts of not inheriting the King<g ref="char:EOLhyphen"/>dom of Heaven will take away all the delight and comfort of Earthly poſſeſſi<g ref="char:EOLhyphen"/>ons. Whatever we have here, 'tis as nothing to us, if we have not hopes of enjoying ſomthing better hereafter. Yea, when this hope of Heaven is not quite deſtroyed, but only leſſen'd or weak<g ref="char:EOLhyphen"/>en'd by ſome doubts and fears; what a trouble is this to us, and how witleſs are our minds, whilſt thoſe doubts and Fears remain! my next work therefore is to ſhew you, how to have the joy and comfort of a ſure and well grounded hope.</p>
+            <p n="2">II. You have heard that the Promiſes of God are the ground of this hope of Everlaſting Life: Now, that which gives us a right to thoſe Promiſes and an int'reſt in them, does alſo make us partakers of this hope. How then do we come to have an int'reſt in the priviledges of Felicity, but by performing the conditi<g ref="char:EOLhyphen"/>ons upon which thoſe promiſes are made. Thoſe Conditions are propos'd to us in
+<pb n="10" facs="tcp:40400:7"/>the Goſpel, <hi>viz.</hi> Faith, Repentance and Chriſtian Obedience: In general a pious and Religious Life <hi>anſwerable</hi> to the Goſ<g ref="char:EOLhyphen"/>pel Rules. Upon Condition of ſuch a Chriſtian behaviour God hath promis'd us Eternal Life, and if we are qua<g ref="char:EOLhyphen"/>lifi'd with ſuch a behaviour, we may hope; and be confident, that God will perform his promiſe of Bleſſedneſs to us.</p>
+            <p>But, becauſe men are apt to de<g ref="char:EOLhyphen"/>ceive themſelves with falſe hopes of heart, it concerns us to know, when this hope is true and when 'tis falſe.</p>
+            <p>For our Direction and Information in this particular, St. <hi>John</hi> has given us a certain rule, whereby to know this. <hi>E<g ref="char:EOLhyphen"/>very man that hath this hope purifieth himſelf.</hi> 1 Ep. 3. V. 3. <hi>i. e.</hi> He lives a pure and virtuous life, abhorring the filthineſs of Vice and Impiety. For he conſiders that the promiſes of Felicity are conditional, and that God is not bound to perform them unleſs they do their Duty; and ſo they endeavour to diſcharge that by li<g ref="char:EOLhyphen"/>ving as purely and piouſly as they can,
+<pb n="11" facs="tcp:40400:7"/>that nothing may be wanting on their parts to hinder them from obtaining the promiſed happineſs of the World to come. Thus a true hope is diſcernible from any other, by a holy Chriſtian converſation which always attends it.</p>
+            <p>So that when a man reflects upon his Life, and finds that he ſincerely endea<g ref="char:EOLhyphen"/>vours to pleaſe God by holy obedience, by a ſtrict, innocent pure converſation, and upon that, hopes to be ſav'd, and enjoy the promis'd Reward of Gods hea<g ref="char:EOLhyphen"/>venly Kingdom, his hope is then ſure and well grounded, he hopes for nothing but what the Goſpel encourages, and God commands him to hope for.</p>
+            <p>But, that others do hope for Heaven and the glories of it, who have not ſufficient ground and warrant for ſuch an expectation, is certain, and com<g ref="char:EOLhyphen"/>monly to be obſerv'd. Men that do not purifie themſelves, nor take any care to reform their lives, and adorn them with Chriſtian vertues; but on the con<g ref="char:EOLhyphen"/>trary indulge themſelves in all vitious impurities and Unchriſtian practices, even
+<pb n="12" facs="tcp:40400:8"/>theſe do hope nevertheleſs to be ſav'd, and boldly lay claim to the promiſes of Eter<g ref="char:EOLhyphen"/>nal happineſs.</p>
+            <p>But tho theſe do ſo, their Claim is not juſt, nor their hope rational: yea, 'tis not ſo properly Hope, as Preſumption; an expectation of ſome good, which a Man has no good ground nor Reaſon to expect. Such is the hope of all un<g ref="char:EOLhyphen"/>godly Men, that take pleaſure in Sin, and hate to be reform'd, and we are expreſly told in Holy Scriptures <hi>that their Hope ſhall periſh.</hi>
+            </p>
+            <p>What good then can it do them to hope for that, which they are never like to obtain, and that which it is a<g ref="char:EOLhyphen"/>gainſt all Reaſon for them to expect. They do but deceive themſelves by ſuch falſe and groundleſs hopes; and this is a ve<g ref="char:EOLhyphen"/>ry pernicious way of deceiving them<g ref="char:EOLhyphen"/>ſelves too: for when they preſume they ſhall be happy and go to Heaven, tho they live impiouſly; They go on in that Preſumption, and never take care to reform their lives; and ſo at laſt <hi>come to a fearful end, and dye in their Sins.</hi>
+            </p>
+            <pb n="13" facs="tcp:40400:8"/>
+            <p>And therefore ſuch perſons as are thus bold and forward to declare their hope of Heav'n, ſhould conſider the Danger of ſuch a deſtructive confidence, and not run themſelves into ruine by a falſe and flattering hope of being ſav'd.</p>
+            <p>Methinks it ſhould be eaſie to reaſon ſuch Men out of their vain Confidence, yea, they might eaſily reaſon themſelves out of it. For thus a Man might ſay to himſelf I am told in Holy Scriptures, <q>that there is ſuch a bleſſing as Eternal Life. I find every where that God has promis'd this Bleſſing only to them that live piouſly. If then I am none of thoſe pious ones, to whom thoſe promiſes are particularly made; how can I expect to have a ſhare in that Felicity? If God has promis'd it to none, but to ſuch as Love and Obey him; He has not not promis'd it to me who am none of that Number: And if I am none of that Number included in the promiſe, I am very unreaſonable to think or hope I ſhall be happy with them; I am Preſumptus to expect the Bleſſing
+<pb n="14" facs="tcp:40400:9"/>without performing the Duty requir'd in order thereunto. I promiſe my ſelf that I ſhall be happy, but my promiſe is nothing without Gods promiſe: This I have not, therefore the other can do me no good, I do hope, but I have no ground for my hope; and ſo it can be but a vain expectation, and I ſhall ſurely deceive my ſelf by it, and inſtead of a Bleſſing I ſhall in the end meet with a miſerable Diſappointment. Yea, it is yet more reaſonable for me to think ſo; becauſe I hope not onely without any promiſe of God to encourage me, but alſo againſt the Expreſs Word of God in his many Threatnings and De<g ref="char:EOLhyphen"/>nuntiations of miſery to ſuch wretched and Unreform'd Sinners as I am: Ei<g ref="char:EOLhyphen"/>ther God ſaies true, in thoſe threat<g ref="char:EOLhyphen"/>nings, or he does not: If he does, (as is moſt certainly to be believ'd) then what reaſon can I have to hope, I ſhall be ſav'd, tho I continue in my Sins, when God ſaies the contrary? Can I be happy whether he will or no? Can I force my way into Heaven? And
+<pb n="15" facs="tcp:40400:9"/>take poſſeſſion of that glorious Inhe<g ref="char:EOLhyphen"/>ritance? I cannot be ſo fooliſh to think ſo, and therefore the reſult of all is this, That before I can have a ſure, and rational, and well-grounded hope I muſt reform my wicked life, and re<g ref="char:EOLhyphen"/>ſolve <hi>to ſerve God in Holineſs and Righte<g ref="char:EOLhyphen"/>ouſneſs all my daies;</hi> then, and not till then, ſhall I be able to hope for Hea<g ref="char:EOLhyphen"/>ven with any Comfort and Aſſurance.</q> After this manner therefore let us reaſon with our ſelves, and by this means we ſhall perceive our Folly and Danger, in re<g ref="char:EOLhyphen"/>lying upon weak and unwarantable Foun<g ref="char:EOLhyphen"/>dations, and in flattering our ſelves with vain hopes of Heaven, while our viti<g ref="char:EOLhyphen"/>ous Converſations carry us directly to<g ref="char:EOLhyphen"/>ward Hell.</p>
+            <p>By what I have ſaid ſo plainly on this point you cannot but underſtand, when your hope of Heaven is true and when falſe; when it has good Founda<g ref="char:EOLhyphen"/>tion, and when it has none. And therefore unleſs you are willing to cheat your ſelves you cannot be deceived in this matter. Conſider your lives what they are, and
+<pb n="16" facs="tcp:40400:10"/>thence judge of your hope: If they be good and comformable to the Rules of Chriſtian Piety, then is your Hope war<g ref="char:EOLhyphen"/>rantably grounded; if they be wicked your hope is vain and deceitful. 'Tis, true wicked men may hope for the Fru<g ref="char:EOLhyphen"/>ition of a better life, but it is upon this ſuppoſition, that they firſt change their manners and live Religiouſly: but while they remain wicked, and reſolve never to be otherwiſe, their truſting in God, and hoping for his mercy and Salvation, is no Virtue, but a great Sin, 'tis a pre<g ref="char:EOLhyphen"/>ſumptuous dependance which God is ne<g ref="char:EOLhyphen"/>ver pleas'd with. It is a peice of high Injuſtice to expect and lay claim to that whereto they have no right. Let us be ſure therefore to lay a good Foundation for our hope, that in the end we may not be diſappointed. 'Tis of the great<g ref="char:EOLhyphen"/>eſt concernment to us to endeavour not to be deceiv'd in this matter. He that lives well may hope well; as for o<g ref="char:EOLhyphen"/>thers, their Expectations are Vain.</p>
+            <p n="3">III Let us now ſee of what uſe this
+<pb n="17" facs="tcp:40400:10"/>Chriſtian hope is to thoſe that have it, and what advantages men receive by it. It ſerves to many good purpoſes:</p>
+            <p>
+               <hi>Firſt,</hi> At all times it encourages men to ſerve God diligently, chearfully, and conſtantly: For when we have a pro<g ref="char:EOLhyphen"/>ſpect of ſo great Happineſs as is pre<g ref="char:EOLhyphen"/>par'd in the Kingdom of Heaven, and have hope of enjoying it, upon Condi<g ref="char:EOLhyphen"/>tion we carefully perform our Chriſtian Duties. We think it well worth our la<g ref="char:EOLhyphen"/>bour to qualifie our ſelves for that high<g ref="char:EOLhyphen"/>eſt Felicity, by conforming to God's Will in all points of holy obedience. For the hope that is ſet before us, we think it not reaſonable to grudge the perform<g ref="char:EOLhyphen"/>ance of any thing that is in our power: This makes Religious Duties more eaſie and pleaſant to us: We ſet about them with chearfulneſs, when we hope for ſo great a Reward after we have done 'em. Thus as a good Life encourages us to hope, ſo that hope encourages to perſevere in a good Life.</p>
+            <pb n="18" facs="tcp:40400:11"/>
+            <p n="2">2. The Hope of Heaven and Eter<g ref="char:EOLhyphen"/>nal Joys makes men put a juſt eſtimate upon things here below, and not to overvalue, or too much love this preſent World. For, when men have ſuch ex<g ref="char:EOLhyphen"/>cellent and eternal enjoyments in their Eye and Expectation, they make no great account of earthly tranſitory things, nor ſettle their affections upon them, but paſſing by theſe leſſer matters, aſ<g ref="char:EOLhyphen"/>pire with the greateſt ardour of affecti<g ref="char:EOLhyphen"/>on after thoſe enjoyments wherein they are ſure of perfect Satisfaction, and of which they are never to be diſpoſſeſs'd.</p>
+            <p>Whereas we ſee other men whoſe hopes of future bleſſedneſs is either very languiſhing, or who have none at all, to be very ſo licitous about the World, to love it exceſſively, and to prize it as their chief Felicity. They mind not the things of Eternity, becauſe they want this hope to elevate their minds and draw them off from the World. Happy then are they, who have this hope, which makes them mind and regard moſt the things that are moſt regardable, and
+<pb n="19" facs="tcp:40400:11"/>keeps them from being Slaves to the World, and overprizing Vanities and trifling enjoyments.</p>
+            <p n="3">3dly. In all afflictions and worldly adverſities this Hope comforts and ſup<g ref="char:EOLhyphen"/>ports us: Whatever our condition be, how deplorable ſoever our circumſtances in the World; yet we are not dejected, we cannot think our ſelves unhappy, while we have this Hope. For what<g ref="char:EOLhyphen"/>ever our troubles and ſufferings are, our hope of being deliver'd from them, and enjoying a State of perfect Peace and Happineſs afterwards, makes us bear 'em patiently and chearfully. If we are hated and evil-entreated in the World; if we Suffer Poverty, Shame, Re<g ref="char:EOLhyphen"/>proach, or any thing elſe, that the ma<g ref="char:EOLhyphen"/>lice of wicked men can bring upon us, we are the leſs mov'd at theſe things, becauſe if we ſuffer 'em upon a good account, we are ſure we ſhall be gainers by 'em, and in that reſpect we can look upon 'em as matter of rejoycing, as the A<g ref="char:EOLhyphen"/>poſtles and primitive Chriſtians did who
+<pb n="20" facs="tcp:40400:12"/>rejoyced that they were counted worthy to ſuffer in a good cauſe, for the Name of Chriſt, and the Sake of true Religion. This St. <hi>Paul</hi> declares, <hi>Rom.</hi> 5, 2, 3, 4, 5. <hi>We rejoyce in the hope of the glory of God. And not onely ſo but we glory in Tribulation alſo, knowing that Tribulation worketh Patience, and Patience Experience, and Experience Hope; and Hope maketh not aſhamed.</hi>
+            </p>
+            <p>Men who have this Hope of the Glory of God will never be aſhamed of thoſe Sufferings, which they know are the way to it: But for the Sake of <hi>that eternal weight of Glory,</hi> which they hope for, will rejoyce in them. And thus St. <hi>Paul</hi> adviſed theſe Chriſtians, <hi>To rejoyce in this Hope, and to be patient in Tribulation,</hi> both which are here joyn'd together. This was nothing but what their Saviour had done before, who for the <hi>Joy that was ſet him, endured the Croſs despiſing the ſhame.</hi> And unleſs <hi>we take up our Croſs and follow him,</hi> (When 'tis neceſſary ſo to do,) He tells us we <hi>are not worthy of him.</hi> To him therefore
+<pb n="21" facs="tcp:40400:12"/>let us look in all our Sufferings as to the <hi>Author and Finiſher of our Faith,</hi> as to the true Promiſer of Heavenly Glory, and not be aſhamed to tread in thoſe holy Steps of his which will ſurely lead us to a bleſſed Eternity, and bring us to Sit down with him at the right hand of God. If ever we ſhould come to be in ſuch Circumſtances as theſe Chriſtians were, when St. <hi>Paul</hi> gave 'em this Exhortation, if we ſhould be perſecuted for Chriſts Sake, and Suffer the Hatred of the World for our ad<g ref="char:EOLhyphen"/>herance to the truth; if we ſhould be depriv'd of our Goods, of our Liberty, and all that we eſteem of in this World: Let us not be aſham'd to Suffer, nor murmur at our Condition, but on the contrary, rejoyce and glory in ſuch ſufferings, <hi>which are indeed the ſhame of our Enemies, but our glory who endure 'em.</hi> Let us hope, to the end and Comfort our ſelves with the many promiſes of a Bleſſed Reward. <hi>Holding faſt the Pro<g ref="char:EOLhyphen"/>feſſion of our Faith without wavering, know<g ref="char:EOLhyphen"/>ing that he is Faithful that has promis'd, and</hi>
+               <pb n="22" facs="tcp:40400:13"/>being well aſſur'd, that <hi>he will abundant<g ref="char:EOLhyphen"/>ly recompence all that we Suffer for him, And for our light afflictions which are but for a moment, will reward us with an eternal and exceeding weight of Glory.</hi>
+            </p>
+            <p>
+               <hi>Now to,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement,</head>
+            <p>Chriſtian Supports under the Terrors of Death. By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>St.</hi> Paul<hi>'s</hi> Triumph in his ſuffering <hi>for Chriſt, with ſome Directions how</hi> a Chriſtian ought to behave himſelf under, and may reap Advantage by ſufferings. By <hi>Matthew Bryan. L. L. D.</hi>
+            </p>
+            <pb facs="tcp:40400:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
